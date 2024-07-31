@@ -8,3 +8,5 @@ case x:
     else:
         echo "hacked"
         discard
+
+echo "more testing"
